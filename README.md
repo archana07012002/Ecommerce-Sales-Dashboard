@@ -15,6 +15,8 @@ The dashboard tracks critical YTD metrics to monitor business health. The follow
 
 (Note: These figures reflect the "Consumer" segment view shown in one of the dashboard screenshots.)
 
+![Screenshot ](https://github.com/archana07012002/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Dashboard.png)
+
 ## Sales Analysis Highlights
 
 ### Sales by Category
@@ -39,17 +41,12 @@ Regional performance is tracked using YTD Sales and the first customer region re
 * *Top 5 Products:* Staple envelope, Staples, Easy-staple paper, Staples in misc c., Store Dura Pro...
 * *Bottom 5 Products:* Rediform S.O.S. P., Panasonic KX T77..., Fellowes PB300 P..., Lenmark MarkNe..., Pizzazz Global Qu...
 
-## 🔧 Technology Used
-
-* *Platform:* [Insert the platform here, e.g., Tableau, Power BI, Streamlit/Python]
-* *Data Source:* [Insert the data source here, e.g., CSV, SQL Database, Excel]
-
 ## 📝 Usage
 
 1.  Clone this repository:
     bash
     git clone [your repository URL]
     
-2.  Open the main dashboard file ([Insert filename here, e.g., dashboard.pbix]) using the appropriate software.
+2.  Open the main dashboard file ([Insert filename - <a href="https://github.com/archana07012002/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.pbix]) using the appropriate software.
 3.  Refresh the data connection if necessary.
 
